@@ -7,7 +7,7 @@ I wrote a post about Evernote ([Why Evernote sucks](https://www.kennymeyer.net/2
 
 - **Life-goal tracking**. I review my 25-year vision every day on my Mac, and update my daily, weekly, monthly and yearly goals on a daily basis.
     
-    \[caption id="attachment\_63" align="aligncenter" width="426"\]![My Evernote shortcuts](images/Screen-Shot-2017-09-03-at-20.51.49.png) My Evernote shortcuts\[/caption\]
+    \[caption id="attachment\_63" align="aligncenter" width="426"\]![My Evernote shortcuts](/assets/images/Screen-Shot-2017-09-03-at-20.51.49.png) My Evernote shortcuts\[/caption\]
 - **Scanning documents. **I digitalize most of my documents... and when I scan business cards it automatically adds the person to my contact list on my smartphone. Convenient and awesome.
 - **Taking notes.** Evernote is still my preferred way to store thoughts about ideas, meetings, projects and things I read on the internet.
 - **Evernote Web Clipper****. **This is how I bookmark and archive interesting reads on the internet, so I can later find them when I want to remember something I read in the past, which brings me to...

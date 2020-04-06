@@ -20,7 +20,7 @@ Obviously, there are some things Evernote got right:
 - Voice memos.
 - Image scanning
 
-![](images/evernote-mobile.jpg "I'm feeling so dirty...")
+![](/assets/images/evernote-mobile.jpg "I'm feeling so dirty...")
 
 I am feeling so dirty...
 

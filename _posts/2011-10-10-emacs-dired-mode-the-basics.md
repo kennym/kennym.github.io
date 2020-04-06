@@ -9,4 +9,4 @@ So, I shared my experience by creating this video:
 
 You can also watch it on Vimeo: http://vimeo.com/30321079
 
-Please, do leave your comments! ![:-)](images/icon_smile.gif)
+Please, do leave your comments! ![:-)](/assets/images/icon_smile.gif)

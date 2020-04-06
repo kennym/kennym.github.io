@@ -5,7 +5,7 @@ date: "2012-09-09"
 
 I find it useful to display the current git commit ID of my application:
 
-[![](images/Screen-Shot-2012-09-08-at-5.04.19-PM.png "Screen Shot 2012-09-08 at 5.04.19 PM")](http://blog.kennymeyer.net/2012/09/08/show-latest-commit-id-in-rails/screen-shot-2012-09-08-at-5-04-19-pm/)
+[![](/assets/images/Screen-Shot-2012-09-08-at-5.04.19-PM.png "Screen Shot 2012-09-08 at 5.04.19 PM")](http://blog.kennymeyer.net/2012/09/08/show-latest-commit-id-in-rails/screen-shot-2012-09-08-at-5-04-19-pm/)
 
 In your application’s _Gemfile_ add the **grit **gem, which is a Ruby wrapper for git, and run Bundler.
 

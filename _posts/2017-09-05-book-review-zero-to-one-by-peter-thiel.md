@@ -5,7 +5,7 @@ date: "2017-09-05"
 
 My main take-away from the book "Zero to One" by Peter Thiel, co-founder of PayPal and Palantir, is that in order to build a successful startup you need to innovate, which means building upon new ideas instead of copying existing ones, as only when you innovate you will be able to create companies like Tesla, AirBnb, Uber, etc.
 
-![Book cover 0 to 1](images/bookSquare1.jpg)
+![Book cover 0 to 1](/assets/images/bookSquare1.jpg)
 
 What makes this book so good is that you can probably finish this in under 4 hours, which makes it a short read, but a very captivating one.
 
@@ -133,6 +133,6 @@ Tesla is one of those companies which got all 7 right.
 
 Embrace the fact that you're different.
 
-\[caption id="attachment\_73" align="aligncenter" width="754"\]![The PayPal team in 1999](images/Screen-Shot-2017-09-04-at-17.46.10.png) The PayPal team in 1999\[/caption\]
+\[caption id="attachment\_73" align="aligncenter" width="754"\]![The PayPal team in 1999](/assets/images/Screen-Shot-2017-09-04-at-17.46.10.png) The PayPal team in 1999\[/caption\]
 
 The founders can signify the difference between the failure or success of a company. See Steve Jobs.

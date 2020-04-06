@@ -15,7 +15,7 @@ Antes de explicarte sobre cómo funciona necesito explicarte más.
 
 ## ¿Qué es Horizen?
 
-![](images/image-1024x364.png)
+![](/assets/images/image-1024x364.png)
 
 [Horizen](https://www.horizen.global/es/) es una organización que se enfoca en privacidad, con la criptomoneda [ZEN](https://coinmarketcap.com/currencies/zencash/) que tiene su propia blockchain independiente de Bitcoin - nació en el 2017, y su fundadores son Roberto Viglione, un PhD que hizo su tésis sobre Bitcoin antes de que fuera "cool", y Rolf - un ingeniero nuclear.
 
@@ -46,7 +46,7 @@ Existen dos tipos de nodos con Horizen.
 
 Los secure nodes requieren que tengas 42 ZEN mínimo, y los super nodes requieren cómo mínimo 500 ZEN, **guardado en una billetera tuya**.
 
-![](images/our-node-network.png)
+![](/assets/images/our-node-network.png)
 
 Esto es algo **maravilloso**. Generalmente tienes que depositar tus criptomonedas en la billetera de otro para obtener beneficios, a cambio con esto vos tenés 100% del control sobre tus criptomonedas.
 

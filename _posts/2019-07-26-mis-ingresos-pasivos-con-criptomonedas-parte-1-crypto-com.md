@@ -21,7 +21,7 @@ Fue adquirido por una empresa alemana, y coincidentemente se llama Crypto.com fu
 
 MCO provee una tarjeta VISA (entre otros productos) que facilita al usuario gastar sus cryptos, y cambio recibe varios beneficios... gastar y obtener beneficios... suena lindo, ¿no? No solo suena lindo, se ve lindo:
 
-![Card page obsidian black](images/card-page-obsidian-black-58d2af3d.png)
+![Card page obsidian black](/assets/images/card-page-obsidian-black-58d2af3d.png)
 
 La tarjeta MCO - hecho de metal exclusivo.
 
@@ -31,7 +31,7 @@ MCO a parte de proveer servicios para transaccionar con criptomonedas en página
 
 Parte del ecosistema forma una aplicación móvil.
 
-![Header hero](images/iPhoneX_pair_desktop-b1b274cb.png)
+![Header hero](/assets/images/iPhoneX_pair_desktop-b1b274cb.png)
 
 Personas que bajaron la app para su Android o iOS pueden depositar sus criptomonedas en una de las billeteras que provee la app, y así obteniendo dólares por ellos.
 
@@ -57,15 +57,15 @@ Y 8% ganado sobre 1 Bitcoin son 0.08 BTC en 12 meses, que uno gana sin preocupar
 4. Una vez terminado eso, inicia sesión.
 5. Depositá tus criptomonedas
 
-![](images/image-576x1024.png)
+![](/assets/images/image-576x1024.png)
 
 6\. Una vez depositado elige la opción 'Earn'
 
-![](images/image-2-576x1024.png)
+![](/assets/images/image-2-576x1024.png)
 
 7\. Elegí el plazo de tiempo por cual queres prestar tus criptomonedas.
 
-![](images/image-3-576x1024.png)
+![](/assets/images/image-3-576x1024.png)
 
 8\. Listo - ahora verás ingresos diarios en la app de tu inversión.
 

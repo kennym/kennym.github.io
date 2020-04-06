@@ -43,7 +43,7 @@ También a diferencia de las otras Macs todos los componentes de mi computadora 
 
 Tomé mi lista y fui a una tienda local, lo pedí y apenas unas 12 horas despues ya lo tenía todo. Y esto es el resultado final:
 
-![](images/IMG_0139-e1559100412718-768x1024.jpg)
+![](/assets/images/IMG_0139-e1559100412718-768x1024.jpg)
 
 Sorprendentemente lo más fácil fue armar la PC en sí, pero lo más lento fue instalar MacOS... me tomó casi un día completo para tenerlo corriendo, pero finalmente lo logré también.
 

@@ -5,7 +5,7 @@ date: "2019-03-28"
 
 A few months ago I made the switch from Evernote to Apple Notes... and I haven't looked back since.
 
-![](images/apple-notes-wide.jpg)
+![](/assets/images/apple-notes-wide.jpg)
 
 Copyright: "The Mac Observer"
 

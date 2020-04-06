@@ -5,7 +5,7 @@ date: "2019-11-28"
 
 Growing a React Native app over time can be a complex undertaking. Dependencies constantly evolve, with breaking changes to iOS/Android-specific code.
 
-![](images/code_quality.png)
+![](/assets/images/code_quality.png)
 
 Source: XKCD
 
@@ -71,7 +71,7 @@ The **second thing** we have to do is bump the version of our React Native app, 
 
 _If you don't have a system for that yet, I highly recommend: [https://www.npmjs.com/package/react-native-version-up](https://www.npmjs.com/package/react-native-version-up)_
 
-![](images/the_general_problem.png)
+![](/assets/images/the_general_problem.png)
 
 Source: XKCD
 
