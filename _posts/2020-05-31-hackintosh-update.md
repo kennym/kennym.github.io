@@ -1,0 +1,16 @@
+---
+title: "Hackintosh update"
+date: "2020-05-31"
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">After working and having fun on a Hackintosh for more than a year now, these are the things I&#39;ve learned:<br>1) Be careful with used components. My graphics card was used, and was faulty. I experienced random reboots, until I replaced it with a new one.</p>&mdash; Kenny Meyer (@meyerkenny) <a href="https://twitter.com/meyerkenny/status/1266704804417503233?ref_src=twsrc%5Etfw">May 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-theme="light"><p lang="en" dir="ltr">2) Buy good RAM. Don&#39;t be cheap on it. I was, and had the weirdest glitches in like forever... every 2 months I had to reinstall my system because it got unusable... basically OS does this: OS writes to RAM -&gt; bad RAM writes to disk -&gt; bad RAM over time is like cancer.</p>&mdash; Kenny Meyer (@meyerkenny) <a href="https://twitter.com/meyerkenny/status/1266705242068070400?ref_src=twsrc%5Etfw">May 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">3) If you&#39;re not willing to invest your time into this - just buy a Mac.</p>&mdash; Kenny Meyer (@meyerkenny) <a href="https://twitter.com/meyerkenny/status/1266705431222718469?ref_src=twsrc%5Etfw">May 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">4) To me everything was worth it. I have a machine that&#39;s so blazing fast, and multi-use + I have tried to switch to Windows/Linux several times, but I just love Mac OS. It&#39;s just beautiful.</p>&mdash; Kenny Meyer (@meyerkenny) <a href="https://twitter.com/meyerkenny/status/1266705737801248770?ref_src=twsrc%5Etfw">May 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Plus, all the stuff I learned about overclocking a PC, delidding and using Liquid Metal, modding the BIOS, memory overclocking, hackintoshing... I just feel like I know much more about hardware than before. Definitely was costly, but worth the investment.</p>&mdash; Kenny Meyer (@meyerkenny) <a href="https://twitter.com/meyerkenny/status/1266706161702707200?ref_src=twsrc%5Etfw">May 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Oh, one more thing: price vs Mac? If you look at the cost of the PC, everything is worth ~2k as of 2020, but I invested more than ~3k, because I made a lot of mistakes. A Mac would be around ~5k with similar specs last time I checked.</p>&mdash; Kenny Meyer (@meyerkenny) <a href="https://twitter.com/meyerkenny/status/1266707904830361601?ref_src=twsrc%5Etfw">May 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
