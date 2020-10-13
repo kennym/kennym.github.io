@@ -5,7 +5,7 @@ date: "2020-10-13"
 
 ## What?
 
-14% annualized ROI with **[Horizen](https://www.horizen.io/).**
+18% annualized ROI with **[Horizen](https://www.horizen.io/).**
 
 One earns rewards for running a cryptocurrency node. Each node requires 42 ZEN that are kept _in your own_ wallet. In simple terms a node helps secure and provide useful services to the network, which is why you are rewarded for that work.
 
