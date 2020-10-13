@@ -12,15 +12,19 @@ One earns rewards for running a cryptocurrency node. Each node requires 42 ZEN t
 ## Numbers?
 
 Minimum investment: 42 ZEN - 252 USD (1 ZEN ~ 6 USD)
+
 Maximum investment: no limit
+
 Monthly cost: ~2 USD per node
 
 Monthly reward: flexible, 0.5936 ZEN or ~3.61 USD
+
 Yearly reward: 7.2 ZEN or ~43 USD
 
 ROI:
 
 In ZEN: 7.2/42 ~ 18%
+
 In USD: 43/252 ~ 17% (but beware that this depends on the price of ZEN, so can be less or more)
 
 I currently have 10 nodes, with an initial investment of 2520 USD, earning me around 430 USD per year.
